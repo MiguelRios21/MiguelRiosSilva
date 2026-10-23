@@ -1,2 +1,2 @@
 # MiguelRiosSilva
-Repositório público para a avaliação A1.
+Documentação da EAP do Módulo de Pedidos e Entregas
